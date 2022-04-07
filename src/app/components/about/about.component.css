@@ -1,0 +1,6 @@
+.fondo{
+    filter: drop-shadow(0 0 10px #6245ca);
+}
+.fondo:hover{
+    filter: drop-shadow(0 0 50px #6245ca);   
+}

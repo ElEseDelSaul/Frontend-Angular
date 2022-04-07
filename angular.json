@@ -27,6 +27,7 @@
               "src/assets"
             ],
             "styles": [
+              "bootswatch/dist/lux/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []

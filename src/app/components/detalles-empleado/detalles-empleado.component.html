@@ -1,0 +1,21 @@
+<div class="container card rounded w-50 d-block my-5">
+    <div class="card-body">
+        <div class="card-header text-center">
+            <h1>Detalles Empelado</h1>
+        </div>
+        <div class="mt-5">
+            <div class="card-subtitle">
+                <b>Id:</b> {{empleado.id}}
+            </div>
+            <p class="card-text">
+                <b>Nombre Completo:</b> {{empleado.nombre}} {{empleado.apellidos}}
+            </p>
+            <p class="card-text">
+                <b>Email:</b> {{empleado.email}}
+            </p>
+        </div>
+    </div>
+    <button type="button" [routerLink]="['/empleados']" class="btn btn-danger w-100 text-center my-5" title="Back">
+        Regresar
+    </button>
+</div>
