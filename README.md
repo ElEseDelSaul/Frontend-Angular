@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
+![](/src/assets/1.png)
+![](/src/assets/2.png)
+![](/src/assets/3.png)
+![](/src/assets/4.png)
+![](/src/assets/5.png)
+![](/src/assets/6.png)
+![](/src/assets/7.png)
+![](/src/assets/8.png)
+![](/src/assets/9.png)
+![](/src/assets/10.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
